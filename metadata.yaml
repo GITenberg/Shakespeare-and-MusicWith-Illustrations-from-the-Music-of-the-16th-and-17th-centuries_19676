@@ -1,0 +1,36 @@
+_repo: Shakespeare-and-MusicWith-Illustrations-from-the-Music-of-the-16th-and-17th-centuries_19676
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Naylor, Edward W. (Edward Woodall)
+    aliases:
+    - Naylor, E. W. (Edward Woodall)
+    - Naylor, Edward Woodall
+    birthdate: 1867
+    deathdate: 1934
+    gutenberg_agent_id: '8813'
+    url: http://www.gutenberg.org/2009/agents/8813
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Naylor
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2006-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Music -- 17th century -- History and criticism'
+- !lcsh 'Music -- 16th century -- History and criticism'
+- !lcsh 'Music and literature'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Knowledge -- Music'
+title: 'Shakespeare and Music
+
+  With Illustrations from the Music of the 16th and 17th centuries'
+url: http://www.gutenberg.org/ebooks/19676
